@@ -1,6 +1,6 @@
 #Ceasar Cipher Encryptor By Mirage
 #O(n) time | O(n) space
-#chr -> A | ord -> 65
+#chr -> A | ord -> 65 (ASCII)
 def caesarCipherEncryptor(string, key):
     newLetters = []
     newKey = key % 26
