@@ -1,4 +1,4 @@
-#Ceasar Cipher Encryptor By Mirage
+#Caesar Cipher Encryptor By Mirage
 #O(n) time | O(n) space
 #chr -> A | ord -> 65 (ASCII)
 def caesarCipherEncryptor(string, key):
